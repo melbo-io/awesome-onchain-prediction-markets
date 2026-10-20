@@ -50,6 +50,7 @@ Consumer-facing venues where you can trade outcomes directly.
 | **Overtime** 🔓 | AMM (Thales) | Optimism, Arbitrum, Base | On-chain sports markets built on the Thales protocol | 🟢 Live | [overtimemarkets.xyz](https://overtimemarkets.xyz/) |
 | **bookmaker.XYZ** 🔓 | Azuro liquidity | Multi-chain | Consumer sports app powered by Azuro's permissionless markets | 🟢 Live | [bookmakerxyz.app](https://bookmakerxyz.app/) |
 | **Sapience (Foil)** 🔓 | AMM | Base, Ethereum | Markets on on-chain "resources" such as gas and blobspace; UMA-resolved | 🟢 Live | [foil.xyz](https://foil.xyz/) |
+| **Melbo** 🔓 | Third-party on-chain liquidity protocol | Polygon | Melbo is a non-custodial interface to prediction markets: trade Yes/No shares on real-world events, where the price shows the market's probability. | 🟢 Live | [melbo.io](https://melbo.io/) |
 
 > Building an on-chain prediction-market app? Open a PR — neutral, accurate descriptions only.
 
